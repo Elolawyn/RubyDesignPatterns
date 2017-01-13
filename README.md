@@ -6,7 +6,19 @@ Ejemplos de patrones de diseño en Ruby
 
 1. [Entorno](#seccion01)
 2. [Instalación](#seccion02)
-3. [Patrón 1: Template](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Template/README.md)
+3. [Patrón 1: Template](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Template)
+4. [Patrón 2: Strategy](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Strategy)
+5. [Patrón 3: Observer](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Observer)
+6. [Patrón 4: Composite](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Composite)
+7. [Patrón 5: Iterator](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Iterator)
+8. [Patrón 6: Commands](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Commands)
+9. [Patrón 7: Adapter](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Adapter)
+10. [Patrón 8: Proxy](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Proxy)
+11. [Patrón 9: Decorator](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Decorator)
+12. [Patrón 10: Singleton](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Singleton)
+13. [Patrón 11: Factory](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Factory)
+14. [Patrón 12: Builder](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Builder)
+15. [Patrón 13: Interpreter](https://github.com/Elolawyn/RubyDesignPatterns/tree/master/Interpreter)
 
 <div id='seccion01'/>
 ## Entorno
