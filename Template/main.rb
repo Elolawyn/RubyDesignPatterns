@@ -6,11 +6,11 @@ puts "Informe genérico"
 puts
 
 begin
-  informe = Informe.new
-  informe.imprimir
+	informe = Informe.new
+	informe.imprimir
 rescue Exception => e  
-  puts e.message  
-  puts e.backtrace.inspect
+	puts e.message  
+	puts e.backtrace.inspect
 end
 
 puts

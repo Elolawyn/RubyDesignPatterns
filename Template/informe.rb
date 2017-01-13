@@ -6,7 +6,7 @@ class Informe
 	end
 	
 	# ------------- Parte que no varía -----------------
-  #
+	#
 	# Proceso principal de realización de un informe
 	
 	def imprimir
