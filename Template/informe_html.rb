@@ -3,13 +3,13 @@ require_relative "informe"
 class InformeHTML < Informe
 	
 	def imprimir_cabecera
-		puts '  <head>'
-    puts "    <title>#{@title}</title>"
+	  puts '  <head>'
+    puts "    <title>#{@titulo}</title>"
     puts '  </head>'
 	end
 	
-	def imprimir_linea(line)
-		puts "    <p>#{line}</p>"
+	def imprimir_linea(linea)
+	  puts "    <p>#{linea}</p>"
 	end
 	
 	def imprimir_comienzo

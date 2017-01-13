@@ -3,12 +3,12 @@ require_relative "informe"
 class InformePlano < Informe
 
 	def imprimir_cabecera
-    puts "**** #{@title} ****"
-    puts
+		puts "**** #{@titulo} ****"
+		puts
 	end
 	
-	def imprimir_linea(line)
-		puts line
+	def imprimir_linea(linea)
+		puts linea
 	end
 	
 end

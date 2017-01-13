@@ -1,8 +1,8 @@
 class Informe
 
 	def initialize
-		@title = 'Informe mensual'
-		@text = ['Todo va bien', 'Muy bien']
+		@titulo = 'Informe mensual'
+		@texto = ['Todo va bien', 'Muy bien']
 	end
 	
 	# ------------- Parte que no varía -----------------
@@ -13,8 +13,8 @@ class Informe
 		imprimir_comienzo
 		imprimir_cabecera
 		imprimir_comienzo_cuerpo
-		@text.each do |line|
-			imprimir_linea line
+		@texto.each do |linea|
+			imprimir_linea linea
 		end
 		imprimir_fin_cuerpo
 		imprimir_fin
@@ -25,11 +25,11 @@ class Informe
 	# Métodos que deben ser sobrescritos
 	
 	def imprimir_cabecera
-		raise 'Called abstract method: output_head'
+		raise 'Llamada a método abstracto: imprimir_cabecera'
 	end
 	
 	def imprimir_linea(line)
-		raise 'Called abstract method: output_line'
+		raise 'Llamada a método abstracto: imprimir_linea'
 	end
 	
 	# Hook Methods
