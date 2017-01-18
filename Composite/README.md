@@ -10,10 +10,10 @@ Este patrón permite dividir tareas complejas en subtareas siempre que todas ell
 
 Una clase define una tarea. Tarea compuesta, que también es una tarea; está formada por tareas. Hay una tarea compuesta formada por dos tareas hojas que trabajan para cumplir un objetivo.
 
-1. [fichero](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/main.rb)
-2. [fichero](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea.rb)
-3. [fichero](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_compuesta.rb)
-4. [fichero](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_hoja_1.rb)
-5. [fichero](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_hoja_2.rb)
-6. [fichero](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_compuesta_1.rb)
+1. [Main](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/main.rb)
+2. [Tarea](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea.rb)
+3. [TareaCompuesta](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_compuesta.rb)
+4. [TareaHojaUno](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_hoja_1.rb)
+5. [TareaHojaDos](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_hoja_2.rb)
+6. [TareaCompuestaUno](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Composite/tarea_compuesta_1.rb)
 
