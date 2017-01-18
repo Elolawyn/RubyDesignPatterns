@@ -8,7 +8,7 @@ Este patrón consiste en crear un objeto que haga de intermediario entre la apli
 2. Esconder el hecho de que un objeto no se encuentra en la aplicación cliente sino en un servidor. (La lógica de conexión estaría en el proxy)
 3. Retrasar hasta el último momento la creación de un objeto. (El proxy almacena los argumentos de creación y sólo cuando se requiera, el proxy creará el objeto real)
 
-![Modelo del patrón](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Proxy/image_01.rb)
+![Modelo del patrón](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Proxy/image_01.png)
 
 ### Ejemplo 1
 
