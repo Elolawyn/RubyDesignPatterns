@@ -2,7 +2,11 @@
 
 [Volver al índice](https://github.com/Elolawyn/RubyDesignPatterns#index)
 
-Este patrón consiste en crear un objeto que haga de intermediario entre la aplicación y el objeto real de forma que la aplicación crea que el intermediario es el real. Permite añadir al intermediario lógica adicional independiente de la aplicación y el objeto real.
+Este patrón consiste en crear un objeto que haga de intermediario entre la aplicación y el objeto real de forma que la aplicación crea que el intermediario es el real. Permite añadir al intermediario lógica adicional independiente de la aplicación y el objeto real. Algunos ejemplos de uso son: 
+
+1. Proeger el acceso a un objeto. (La lógica de acceso estaría en el proxy)
+2. Esconder el hecho de que un objeto no se encuentra en la aplicación cliente sino en un servidor. (La lógica de conexión estaría en el proxy)
+3. Retrasar hasta el último momento la creación de un objeto. (El proxy almacena los argumentos de creación y sólo cuando se requiera, el proxy creará el objeto real)
 
 ![Modelo del patrón](https://github.com/Elolawyn/RubyDesignPatterns/blob/master/Proxy/image_01.rb)
 
