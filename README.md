@@ -33,7 +33,7 @@ Ejemplos de patrones de diseño en Ruby
 
 [Volver al índice](#index)
 
-Para instalar ruby se utilizará **rbenv** que permitirar gestionar distintas versiones de ruby y utilizar la más conveniente.
+Para instalar ruby se utilizará **rbenv** que permitirá gestionar distintas versiones de ruby y utilizar la más conveniente.
 
 ```bash
 sudo apt-get update
