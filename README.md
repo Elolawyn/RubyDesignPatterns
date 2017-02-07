@@ -26,7 +26,7 @@ Ejemplos de patrones de diseño en Ruby
 [Volver al índice](#index)
 
 1. Ruby 2.3.3
-2. Ubuntu 16.04.1 LTS dfgd
+2. Ubuntu 16.04.1 LTS
 
 <div id='seccion02'/>
 ## Instalación
